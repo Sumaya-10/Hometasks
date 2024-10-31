@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\praktika\\practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAE5969-02E8-43C0-9458-D0CE454B9AE7}|practice\\practice.csproj|c:\\users\\user\\desktop\\praktika\\practice\\practice\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAE5969-02E8-43C0-9458-D0CE454B9AE7}|practice\\practice.csproj|solutionrelative:practice\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAE5969-02E8-43C0-9458-D0CE454B9AE7}|practice\\practice.csproj|c:\\users\\user\\desktop\\praktika\\practice\\practice\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAE5969-02E8-43C0-9458-D0CE454B9AE7}|practice\\practice.csproj|solutionrelative:practice\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAE5969-02E8-43C0-9458-D0CE454B9AE7}|practice\\practice.csproj|c:\\users\\user\\desktop\\praktika\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAE5969-02E8-43C0-9458-D0CE454B9AE7}|practice\\practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\praktika\\practice\\practice\\Hospital.cs",
+              "RelativeDocumentMoniker": "practice\\Hospital.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\praktika\\practice\\practice\\Hospital.cs",
+              "RelativeToolTip": "practice\\Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:58:52.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\praktika\\practice\\practice\\Appointment.cs",
+              "RelativeDocumentMoniker": "practice\\Appointment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\praktika\\practice\\practice\\Appointment.cs",
+              "RelativeToolTip": "practice\\Appointment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:58:33.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\praktika\\practice\\practice\\Program.cs",
+              "RelativeDocumentMoniker": "practice\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\praktika\\practice\\practice\\Program.cs",
+              "RelativeToolTip": "practice\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:57:40.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
